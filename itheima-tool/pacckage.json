@@ -1,0 +1,17 @@
+
+{
+    "name":"itheima-tool",
+    "version":"1.0.0",
+    "main":"index.js",
+    "descripthin":"提供了格式化时间，HtmlEsccapex相关的功能",
+     "keywords":[
+         "itheima",
+         "dateFormat",
+         "escape"
+    
+     ],
+     "liccense":"ISC"
+
+    
+    
+}
